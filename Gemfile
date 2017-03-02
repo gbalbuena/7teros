@@ -17,6 +17,6 @@ gem 'middleman-sprockets', '>= 4.0.0'
 
 source 'https://rails-assets.org' do
   gem 'rails-assets-materialize'
-  gem 'rails-assets-font-awesome'
+  gem 'rails-assets-font-awesome', '~> 4.3.0'
   gem 'rails-assets-jquery'
 end

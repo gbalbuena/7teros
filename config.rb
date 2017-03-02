@@ -18,12 +18,13 @@ page '/*.txt', layout: false
 
 # General configuration
 
+activate :sprockets
+activate :i18n, :mount_at_root => :es
+
 # Reload the browser automatically whenever files change
 configure :development do
   activate :livereload
 end
-
-activate :sprockets
 
 if defined? RailsAssets
   RailsAssets.load_paths.each do |path|

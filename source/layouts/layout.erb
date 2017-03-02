@@ -12,16 +12,15 @@
     <%= stylesheet_link_tag "site" %>
   </head>
 
-  <body class="<%= page_classes %>">
+  <body>
+    <!-- <div class="parallax">
+      <%= image_tag 'background.jpg' %>
+    </div> -->
     <div class="container">
-      <header>
-        <h1>Welcome</h1>
-      </header>
+      <%= partial "header" %>
       <%= yield %>
-      <footer>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit &copy; <%= Date.today.year %>
-      </footer>
     </div>
+    <%= partial "footer" %>
     <%= javascript_include_tag "site" %>
   </body>
 </html>

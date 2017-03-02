@@ -1,0 +1,19 @@
+---
+es:
+  title: 7 Teros
+  secondary_title: Punta del diablo, Rocha, Uruguay
+  welcome: Bienvenidos
+  location: Ubicacion
+  contact: Contacto
+  footer_content1: El complejo 7 Teros está conformado por 2 cabañas 7 Teros para 4 personas, 3 lofts Naranja Lima para 3 personas y 2 casas Quetza para 4 personas ubicados en la zona Norte, del Rivero.
+
+  siete_teros:
+    content: Ubicado en uno de los lugares más pintorescos de la costa de Rocha, el complejo 7 Teros, está compuesto por dos cabañas con capacidad para cuatro personas, con vista al mar y a una distancia de 300 metros de la playa.
+
+  quetza_content:
+    content: Ubicado en uno de los lugares más pintorescos de la costa de Rocha, el complejo Quetza, está compuesto por dos cabañas con capacidad para cuatro personas, con vista al mar y a una distancia de 300 metros de la playa. Las cabañas además cuentan con Jacuzzi.
+
+  naranja_lima:
+    content: Ubicado en uno de los lugares más pintorescos de la costa de Rocha, el complejo Naranja Lima, está compuesto por tres lofts con capacidad para tres personas, con vista al mar y a una distancia de 300 metros de la playa.
+
+  footer: Lorem ipsum dolor sit amet, consectetur adipisicing elit &copy; {{year}}

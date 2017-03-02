@@ -107,7 +107,7 @@ GEM
     rack (2.0.1)
     rack-livereload (0.3.16)
       rack
-    rails-assets-font-awesome (4.7.0)
+    rails-assets-font-awesome (4.3.0)
     rails-assets-jquery (3.1.1)
     rails-assets-materialize (0.98.0)
       rails-assets-jquery (>= 2.1.1)
@@ -135,7 +135,7 @@ DEPENDENCIES
   middleman-compass (>= 4.0.0)
   middleman-livereload (~> 3.4)
   middleman-sprockets (>= 4.0.0)
-  rails-assets-font-awesome!
+  rails-assets-font-awesome (~> 4.3.0)!
   rails-assets-jquery!
   rails-assets-materialize!
 

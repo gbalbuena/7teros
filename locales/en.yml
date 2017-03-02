@@ -1,0 +1,17 @@
+---
+en:
+  welcome: Welcome
+  location: Location
+  contact: Contact
+  footer_content1: The complex 7 Teros consists of 2 cabins 7 Teros for 4 people, 3 lofts Naranja Lima for 3 people and 2 houses Quetza for 4 people located in the North area of ​​Rivero.
+
+  siete_teros:
+    content: Located in one of the most picturesque places on the coast of Rocha, the 7 Teros complex is composed of two cabins with capacity for four people, with a view to the sea and a distance of 300 meters from the beach.
+
+  quetza_content:
+    content: Located in one of the most picturesque places on the Rocha coast, the Quetza complex is made up of two cabins with a capacity for four people, with a view of the sea and a distance of 300 meters from the beach. The cabins also have a Jacuzzi.
+
+  naranja_lima:
+    content: Located in one of the most picturesque places on the Rocha coast, the Naranja Lima complex is composed of three lofts with capacity for three people, with a view to the sea and a distance of 300 meters from the beach.
+
+  footer: Lorem ipsum dolor sit amet, consectetur adipisicing elit &copy; {{year}}

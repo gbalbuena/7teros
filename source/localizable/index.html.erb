@@ -1,0 +1,22 @@
+---
+title: Welcome
+---
+<div class="row">
+  <div class="col s12">
+    <ul class="tabs tabs-fixed-width">
+      <li class="tab col s4 blue lighten-5"><a class='black-text' href="#promotion-table"><%= t 'welcome' %></a></li>
+      <li class="tab col s4 blue lighten-5"><a class='black-text' href="#location"><%= t 'location' %></a></li>
+      <li class="tab col s4 blue lighten-5"><a class='black-text' href="#contact"><%= t 'contact' %></a></li>
+    </ul>
+  </div>
+  <div id="promotion-table" class="col s12">
+    <%= partial "promotion_table" %>
+  </div>
+  <div id="location" class="col s12">
+    <%= partial "location" %>
+  </div>
+  <div id="contact" class="col s12">Test 2</div>
+</div>
+
+<!--
+# <%= partial "services" %> -->
